@@ -13,7 +13,7 @@ This project contains structured SQL queries performed on the "Awesome Chocolate
 
 ## Folders
 - `/queries` → Organized `.sql` files for each business question
-- `/screenshots` → Output previews and schema design
+
 
 ## Sample Query
 ```sql
